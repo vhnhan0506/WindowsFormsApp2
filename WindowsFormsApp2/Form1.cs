@@ -17,6 +17,7 @@ namespace WindowsFormsApp2
             InitializeComponent();
             this.Text = "hello";
             //tesst chuc nanwg;
+            //chinh sua them 2 dong.
         }
     }
 }
